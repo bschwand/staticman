@@ -1,0 +1,10 @@
+{
+  "githubAppID": "GITHUB_APPID",
+  "githubPrivateKey": "GITHUB_PRIVATE_KEY",
+  "rsaPrivateKey": "RSA_PRIVATE_KEY",
+  "port": PORT,
+  "akismet": {
+    "site": "AKISMET_SITE",
+    "apiKey": "AKISMET_KEY"
+  }
+}
